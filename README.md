@@ -40,6 +40,7 @@ AI Radiograph. A web app that uses XAI, LLMs, VLM to generate medical reports
 
 
 
+![image](https://github.com/user-attachments/assets/abae0355-eee5-49f6-a2c0-3204972425af)
 
 
 
