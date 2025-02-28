@@ -1,6 +1,9 @@
 # XaiMed
 AI Radiograph. A web app that uses XAI, LLMs, VLM to generate medical reports
 
+Full source code at: https://drive.google.com/file/d/1ydbIBzFD6oQBLGjkNfaT_dxJLoGACjln/view?usp=sharing
+
+
 ![image](https://github.com/user-attachments/assets/b9ba30e0-4d6c-4c9b-ad88-e8c79bd04f9f)
 
 ![image](https://github.com/user-attachments/assets/45d97e0f-b08f-4007-9290-b3892a806f57)
